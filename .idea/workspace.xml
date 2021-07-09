@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/question.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/checkTextInputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/mask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +28,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="sliders" />
+        <entry key="$PROJECT_DIR$" value="forms" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,7 +61,8 @@
       <updated>1625571541527</updated>
       <workItem from="1625571542856" duration="5333000" />
       <workItem from="1625640642735" duration="7989000" />
-      <workItem from="1625735853369" duration="5346000" />
+      <workItem from="1625735853369" duration="6158000" />
+      <workItem from="1625816686197" duration="4816000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -88,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625648292975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added sending form data to the server">
+      <created>1625741504492</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625741504492</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +114,7 @@
     <MESSAGE value="Added modals to project" />
     <MESSAGE value="Added a functioning popup-gift" />
     <MESSAGE value="Added a functioning sliders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a functioning sliders" />
+    <MESSAGE value="Added sending form data to the server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sending form data to the server" />
   </component>
 </project>
