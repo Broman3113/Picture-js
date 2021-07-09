@@ -41,6 +41,7 @@ const mask = (selector) => {
     let inputs = document.querySelectorAll(selector);
 
     inputs.forEach(input => {
+        input.addEventListener('click', createMask);
         input.addEventListener('input', createMask);
         input.addEventListener('focus', createMask);
         input.addEventListener('blur', createMask);

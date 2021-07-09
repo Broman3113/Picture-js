@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/checkTextInputs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/modules/mask.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/mask.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/mask.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,8 @@
       <workItem from="1625640642735" duration="7989000" />
       <workItem from="1625735853369" duration="6158000" />
       <workItem from="1625816686197" duration="4816000" />
+      <workItem from="1625821548697" duration="49000" />
+      <workItem from="1625842964588" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625741504492</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added phone mask and other validations">
+      <created>1625821586535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625821586535</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +122,7 @@
     <MESSAGE value="Added a functioning popup-gift" />
     <MESSAGE value="Added a functioning sliders" />
     <MESSAGE value="Added sending form data to the server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added sending form data to the server" />
+    <MESSAGE value="Added phone mask and other validations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added phone mask and other validations" />
   </component>
 </project>
