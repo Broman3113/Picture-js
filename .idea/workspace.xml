@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/modules/calc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +32,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="form_validation" />
+        <entry key="$PROJECT_DIR$" value="more_styles" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +69,7 @@
       <workItem from="1625816686197" duration="4816000" />
       <workItem from="1625821548697" duration="49000" />
       <workItem from="1625842964588" duration="1223000" />
-      <workItem from="1626249222471" duration="3800000" />
+      <workItem from="1626249222471" duration="8402000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -107,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626252949705</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added the ability to run without json-server">
+      <created>1626253310669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626253310669</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +137,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="form_validation" />
+                        <option value="picture_calculator" />
                       </list>
                     </value>
                   </entry>
@@ -144,6 +157,7 @@
     <MESSAGE value="Added sending form data to the server" />
     <MESSAGE value="Added phone mask and other validations" />
     <MESSAGE value="Added loading pictures from database" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added loading pictures from database" />
+    <MESSAGE value="Added the ability to run without json-server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the ability to run without json-server" />
   </component>
 </project>
