@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/services/requests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +63,7 @@
       <workItem from="1625816686197" duration="4816000" />
       <workItem from="1625821548697" duration="49000" />
       <workItem from="1625842964588" duration="1223000" />
-      <workItem from="1626249222471" duration="2850000" />
+      <workItem from="1626249222471" duration="3800000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -107,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625821586535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added loading pictures from database">
+      <created>1626252949705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626252949705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +143,7 @@
     <MESSAGE value="Added a functioning sliders" />
     <MESSAGE value="Added sending form data to the server" />
     <MESSAGE value="Added phone mask and other validations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added phone mask and other validations" />
+    <MESSAGE value="Added loading pictures from database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added loading pictures from database" />
   </component>
 </project>
