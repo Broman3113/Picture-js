@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/services/requests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +70,7 @@
       <workItem from="1625816686197" duration="4816000" />
       <workItem from="1625821548697" duration="49000" />
       <workItem from="1625842964588" duration="1223000" />
+      <workItem from="1626249222471" duration="2850000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
