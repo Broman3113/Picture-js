@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/burger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/scrolling.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="accordion" />
+        <entry key="$PROJECT_DIR$" value="burger" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,7 +73,8 @@
       <workItem from="1626249222471" duration="9124000" />
       <workItem from="1626343810548" duration="6623000" />
       <workItem from="1626423099470" duration="474000" />
-      <workItem from="1626609103514" duration="1558000" />
+      <workItem from="1626609103514" duration="2057000" />
+      <workItem from="1626770193148" duration="5936000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -134,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626433792316</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added burger menu for tablets">
+      <created>1626610944697</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626610944697</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +163,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="burger" />
+                        <option value="smooth_scroll" />
                       </list>
                     </value>
                   </entry>
@@ -174,6 +186,7 @@
     <MESSAGE value="Added the ability to run without json-server" />
     <MESSAGE value="Added picture price calculator" />
     <MESSAGE value="Added accordion to question section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added accordion to question section" />
+    <MESSAGE value="Added burger menu for tablets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added burger menu for tablets" />
   </component>
 </project>
