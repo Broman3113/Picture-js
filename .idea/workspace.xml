@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15896138-f5d0-4d38-a4b0-ae8013b4b595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/scrolling.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/drop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
@@ -33,7 +33,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="burger" />
+        <entry key="$PROJECT_DIR$" value="smooth_scroll" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +74,7 @@
       <workItem from="1626343810548" duration="6623000" />
       <workItem from="1626423099470" duration="474000" />
       <workItem from="1626609103514" duration="2057000" />
-      <workItem from="1626770193148" duration="5936000" />
+      <workItem from="1626770193148" duration="9678000" />
     </task>
     <task id="LOCAL-00001" summary="Added modals to project">
       <created>1625576297929</created>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626610944697</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added smooth scrolling with native js">
+      <created>1626776914724</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626776914724</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +194,7 @@
     <MESSAGE value="Added picture price calculator" />
     <MESSAGE value="Added accordion to question section" />
     <MESSAGE value="Added burger menu for tablets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added burger menu for tablets" />
+    <MESSAGE value="Added smooth scrolling with native js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added smooth scrolling with native js" />
   </component>
 </project>
