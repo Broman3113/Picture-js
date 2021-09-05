@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Broman3113/Picture-js">
-    <img src="src/assets/github.svg" alt="Logo" width="80" height="80">
+    <img src="/github.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Irvas JavaScript Practice</h3>
