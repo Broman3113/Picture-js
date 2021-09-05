@@ -87,6 +87,6 @@ To get a local copy up and running follow these simple example steps.
 
 [Andrey Borbot](https://github.com/Broman3113)
 
-Project Link: [https://github.com/Broman3113/JavaScript-practice-project-Irvas](https://github.com/Broman3113/JavaScript-practice-project-Irvas)
+Project Link: [https://github.com/Broman3113/Picture-js](https://github.com/Broman3113/Picture-js)
 
 [product-screenshot]: src/assets/github.svg
