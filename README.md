@@ -5,7 +5,7 @@
     <img src="/github.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Irvas JavaScript Practice</h3>
+<h3 align="center">Picture JavaScript Practice</h3>
 
   <p align="center">
     Explanation in using the project.
