@@ -43,13 +43,17 @@
 
 ## About The Project
 
-A pure JavaScript web page written to improve own skills. 
+A pure JavaScript web page written to improve own skills. This project has lots of features
 Such as:
 
 * Modal windows
+* Accordion
+* Burger
+* Masks
+* Smooth Scrolling to anchor links
 * Different Tabs
 * Timer
-* Forms validation and sending them to the server
+* Form validations and sending them to the server
 
 ### Built With
 
